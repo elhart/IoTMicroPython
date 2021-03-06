@@ -30,4 +30,5 @@ def spin():
             np.write()
             sleep(0.3)
 
-spin()
+# spin()
+rainbow()
